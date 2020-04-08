@@ -11,6 +11,7 @@
 This app is a center to various events ranging from portraying the member’s achievements to announcing the upcoming opportunities.
 Additionally, this app developed by the community, and for the community, will add elegance. Plus, being as an open source project, this will be a golden opportunity for beginners to learn and contribute to it just like a cherry on the cake.
 
+Hello.
 
 ## Prerequisites  :point_down:
 - Ability to use Git and Github :octocat:
